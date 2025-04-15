@@ -1,0 +1,16 @@
+open a terminal in the root folder 
+npm run dev
+open another terminal in root folder
+cd frontend 
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start
+
+
+
+
+
+
+Credentials for admin login
+
+kajolbhat87@gmail.com
+123
